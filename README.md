@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hello
+ my name is charlie hill
+ # about me
+ I"m 14 years old and I my hobbies include musical theater, acting, and of course didgital technology.
+ # past didgital projects
+ In the past I have made a few simple websites and some blender modles.
+ 
 <!--
 **charcharyas/charcharyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
